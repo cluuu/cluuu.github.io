@@ -1,91 +1,84 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Claudio Zeeb's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Claudio Zeeb
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:claudio.zeeb@gmail.com">claudio.zeeb@gmail.com</a>
+| <a href="https://www.linkedin.com/in/claudio-zeeb-0450a118a/">LinkedIn</a>
 </div>
 
 
-## Currently
+## Derzeit
 
-Standing on the shoulders of giants
+Informatikstudent im 4. Semester an der LMU München, selbstständiger Veranstaltungstechniker
 
-### Specialized in
+### Programmiersprachen
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Java, C, Python, Haskell, bash
 
+### Tools
 
-### Research interests
+VS Code, IntelliJ IDEA, PyCharm, git, pandoc
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Ausbildung
 
+`Oktober 2018 - heute`
+__Bachelorstudium Informatik plus Statistik, LMU München__
 
-## Education
+- Notendurchschnitt Stand 09.04.2020: 1,57
 
-`1654-1660`
-__The King's School, Grantham.__
+`September 2014 - Februar 2017 `
+__Ausbildung zur Fachkr. f. Veranstaltungstechnik, Münchner Kammerspiele__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Abschlussnote 1,9
 
-- Sizar
+`September 2006 - Juli 2014`
+__Allgemeine Hochschulreife, Gymnasium Ottobrunn__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Abschlussnote 1,9
 
-- Fellow
+## Berufserfahrung
 
+`Oktober 2018 - heute`
+__Selbstständiger Veranstaltungstechniker__
 
+- Spezialisierung Lichtprogrammierung und Netzwerktechnik
+- Durchführung von Anwenderschulungen im Bereich Lichtsteuerung und Netzwerktechnik für Electronic Theatre Controls, Holzkirchen
 
-## Awards
+`Februar 2017 - Oktober 2018`
+__Stellwerksbeleuchter/Oberbeleuchter, Münchner Kammerspiele__
 
-`2012`
-President, *Royal Society*, London, UK
+- Programmierung von Lichtshows, Betreuung von Proben und Vorstellungen
+- Instandhaltung und Dokumentation von Netzwerkinfrastruktur, einfache Systemadministration
 
-Associate, *French Academy of Science*, Paris, France
+`2014 - 2017`
 
+__Ausbildung zur Fachkraft für Veranstaltungstechnik, Münchner Kammerspiele__
 
+- Schwerpunkt Aufbau und Durchführung 
 
-## Publications
+`2012-2015`
+__Aushilfe im Getränkemarkt, Gerhard's Getränkeshop, Neubiberg__
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Mithilfe in Verkauf, Lieferservice und Buchhaltung
 
-### Journals
+## Sprachen
+__Deutsch__ 
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+- Muttersprache 
 
-`1669`
-Lectiones opticæ.
+__Englisch__
 
-etc. etc. etc.
+- verhandlungssicher
 
-### Patents
+## Interessen
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+Mountainbiken, Klettern, Skitouren, Kochen, Heimwerken
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2020 -->
 
 
