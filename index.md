@@ -12,7 +12,7 @@ title: Claudio Zeeb's CV
 
 ## Derzeit
 
-Informatikstudent im 4. Semester an der LMU München, selbstständiger Veranstaltungstechniker
+Informatikstudent im 4. Semester an der LMU München, Veranstaltungstechniker
 
 ### Programmiersprachen
 
@@ -45,14 +45,16 @@ __Allgemeine Hochschulreife, Gymnasium Ottobrunn__
 __Selbstständiger Veranstaltungstechniker__
 
 - Spezialisierung Lichtprogrammierung und Netzwerktechnik
-- Durchführung von Anwenderschulungen im Bereich Lichtsteuerung und Netzwerktechnik für Electronic Theatre Controls, Holzkirchen
+- Durchführung von Anwenderschulungen im Bereich Lichtsteuerung 
+- und Netzwerktechnik für Electronic Theatre Controls, Holzkirchen
 
 `Februar 2017 - Oktober 2018`
 __Stellwerksbeleuchter/Oberbeleuchter, Münchner Kammerspiele__
 
 - Programmierung von Lichtshows, Betreuung von Proben und Vorstellungen
-- Instandhaltung und Dokumentation von Netzwerkinfrastruktur, einfache Systemadministration
-
+- Instandhaltung und Dokumentation von Netzwerkinfrastruktur, 
+- einfache Systemadministration
+ 
 `2014 - 2017`
 
 __Ausbildung zur Fachkraft für Veranstaltungstechnik, Münchner Kammerspiele__
