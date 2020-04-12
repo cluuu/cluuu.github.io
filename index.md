@@ -16,7 +16,7 @@ Informatikstudent im 4. Semester an der LMU München, Veranstaltungstechniker
 
 ### Programmiersprachen
 
-Java, C, Python, Haskell, bash
+Java, C, Python, R, Haskell, bash
 
 ### Tools
 
@@ -30,7 +30,7 @@ __Bachelorstudium Informatik plus Statistik, LMU München__
 - Notendurchschnitt Stand 09.04.2020: 1,57
 
 `September 2014 - Februar 2017 `
-__Ausbildung zur Fachkr. f. Veranstaltungstechnik, Münchner Kammerspiele__
+__Ausbildung zur Fachkraft für Veranstaltungstechnik, Münchner Kammerspiele__
 
 - Abschlussnote 1,9
 
@@ -75,7 +75,7 @@ __Englisch__
 
 - verhandlungssicher
 
-## Interessen
+## Interessen & Hobbies
 
 Mountainbiken, Klettern, Skitouren, Kochen, Heimwerken
 
