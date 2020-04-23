@@ -59,7 +59,10 @@ __Stellwerksbeleuchter und Beleuchter, Münchner Kammerspiele__
 - Programmierung von Lichtshows, Betreuung von Proben und Vorstellungen
 - Instandhaltung und Dokumentation von Netzwerkinfrastruktur, 
 - einfache Systemadministration
+<<<<<<< HEAD
 - Durchführung von Gastspielen im In- und Ausland
+=======
+>>>>>>> d9b598d3d6962c91ac6997cc9d8b5fce9cea611b
  
 `2014 - 2017`
 
