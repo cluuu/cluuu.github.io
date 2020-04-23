@@ -20,14 +20,14 @@ Java, C, Python, R, Haskell, bash
 
 ### Tools
 
-VS Code, IntelliJ IDEA, PyCharm, git, pandoc
+VS Code, IntelliJ IDEA, PyCharm, git 
 
 ## Ausbildung
 
 `Oktober 2018 - heute`
 __Bachelorstudium Informatik plus Statistik, LMU München__
 
-- Notendurchschnitt Stand 09.04.2020: 1,57
+- Notendurchschnitt Stand 16.04.2020: 1,57
 
 `September 2014 - Februar 2017 `
 __Ausbildung zur Fachkraft für Veranstaltungstechnik, Münchner Kammerspiele__
@@ -39,6 +39,11 @@ __Allgemeine Hochschulreife, Gymnasium Ottobrunn__
 
 - Abschlussnote 1,9
 
+`September 2011 - Juli 2012`
+__Inland Lakes High School, Indian River, Michigan__
+
+- 10-monatiger Auslandsaufenthalt in den USA
+
 ## Berufserfahrung
 
 `Oktober 2018 - heute`
@@ -49,11 +54,12 @@ __Selbstständiger Veranstaltungstechniker__
 - und Netzwerktechnik für Electronic Theatre Controls, Holzkirchen
 
 `Februar 2017 - Oktober 2018`
-__Stellwerksbeleuchter/Oberbeleuchter, Münchner Kammerspiele__
+__Stellwerksbeleuchter und Beleuchter, Münchner Kammerspiele__
 
 - Programmierung von Lichtshows, Betreuung von Proben und Vorstellungen
 - Instandhaltung und Dokumentation von Netzwerkinfrastruktur, 
 - einfache Systemadministration
+- Durchführung von Gastspielen im In- und Ausland
  
 `2014 - 2017`
 
@@ -61,7 +67,7 @@ __Ausbildung zur Fachkraft für Veranstaltungstechnik, Münchner Kammerspiele__
 
 - Schwerpunkt Aufbau und Durchführung 
 
-`2012-2015`
+`2012 - 2015`
 __Aushilfe im Getränkemarkt, Gerhard's Getränkeshop, Neubiberg__
 
 - Mithilfe in Verkauf, Lieferservice und Buchhaltung
